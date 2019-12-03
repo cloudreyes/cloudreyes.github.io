@@ -1,10 +1,9 @@
 ---
-layout: feed
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-	<title>Hank Quinlan's Blog</title>
+	<title>Jaime A Reyes's Blog</title>
 	<link href="http://cloudreyes.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://cloudreyes.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
