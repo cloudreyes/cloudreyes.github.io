@@ -4,8 +4,21 @@
 	<title>CloudReyes</title>
 	<link rel="self" href="http://cloudreyes.com/" />
 	<rights>2019</rights>
-	<updated>2019-12-06T06:08:59Z</updated>
+	<updated>2019-12-06T20:16:20Z</updated>
 	<subtitle>My Notes on the Web.</subtitle>
+	<entry>
+		<id>http://cloudreyes.com/posts/2019-12-06-Authentication</id>
+		<title>Starting Up. Authentication with Cognito</title>
+		<link href="http://cloudreyes.com/posts/2019-12-06-Authentication" />
+		<updated>2019-12-06T00:00:00Z</updated>
+		<content>&lt;p&gt;Building a Dirstributed System.&lt;/p&gt;
+&lt;p&gt;Let's start with the Authentication module.&lt;/p&gt;
+&lt;p&gt;I need to show knowledge of the Cloud, so, I will use AWS Cognito to handle all the users in my applications.&lt;/p&gt;
+&lt;p&gt;I will start easy, just being able to create users and authenticate them. Later on we can add an Entitlement or Claims model so that we can manage the authorization level on different modules of our system.&lt;/p&gt;
+&lt;p&gt;WIP.....&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;Building a Dirstributed System.&lt;/p&gt;</summary>
+	</entry>
 	<entry>
 		<id>http://cloudreyes.com/posts/first-post</id>
 		<title>First Post</title>
