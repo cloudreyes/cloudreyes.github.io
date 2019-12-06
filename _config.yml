@@ -27,7 +27,7 @@ url: "https://cloudryes.com" # the base hostname & protocol for your site, e.g. 
 github_username:  cloudreyes
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: minima
 plugins:
   - jekyll-feed
 
